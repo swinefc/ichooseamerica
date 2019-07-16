@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to iChooseAmerica
 
-You can use the [editor on GitHub](https://github.com/swinefc/ichooseamerica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This simple website contains information about the movement engaging voters in their representative democracy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+iChooseAmerica was born out of Chris Swinefurth's realization that he didn't know the name of his representative and even worse, didn't know how they aligned with his views.
 
-```markdown
-Syntax highlighted code block
+### Letter Sent to top 25 American Billionares
 
-# Header 1
-## Header 2
-### Header 3
+In May of 2017, I sent a letter to the top 25 Billionares in America.
 
-- Bulleted
-- List
+[Here is the letter sent to Warren Buffett](iChooseAmerica_Letter_to_Warren_Buffett.pdf)
 
-1. Numbered
-2. List
+### Application to ABC's Shark Tank
 
-**Bold** and _Italic_ and `Code` text
+On July 16th, 2019, I tried out for the ABC show Shark Tank.  I hoped to succeed with entertaining content and a chance to change the world.
 
-[Link](url) and ![Image](src)
-```
+### Similar Ideas
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Somebody who gets it](https://brigade.news/what-your-7th-grade-civics-class-got-wrong-a18fe2e16e85)
 
-### Jekyll Themes
+[Countable is close](https://www.countable.us)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swinefc/ichooseamerica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Caveats
 
-### Support or Contact
+Please know this website isn't pretty or polished.  It's simply informational for someone who is interested in helping.  It is not a complete picture of iChooseAmerica, but simply background information.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank You and Have a Nice Day
+
