@@ -17,6 +17,11 @@ In May of 2017, I sent a letter to the top 25 Billionares in America.
 
 On July 16th, 2019, I tried out for the ABC show Shark Tank.  I hoped to succeed with entertaining content and a chance to change the world.
 
+[My Shark Tank Application](ST-11-Initial-Application-Packet.pdf)
+
+#### Practicing my pitch to Shark Mark Cuban
+{% include youtubePlayer.html id="-A-pusE_IMM" %}
+
 ### Similar Ideas
 
 [Somebody who gets it](https://brigade.news/what-your-7th-grade-civics-class-got-wrong-a18fe2e16e85)
